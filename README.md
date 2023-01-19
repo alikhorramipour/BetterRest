@@ -1,6 +1,6 @@
 # BetterRest
  Sleep duration prediction using machine learning based on the cups of coffee you've drank!    
- <img align="right" src="BetterRest.gif">
+ <center><img align="right" src="BetterRest.gif"></center>
 # Installation
  1. Open up Xcode
  2. Click on File > Open
